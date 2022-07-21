@@ -1,10 +1,10 @@
 {
 	"is_microg_broken": false,
 	"manager": {
-		"version": "2.6.3",
-		"versionCode": 220714,
-		"url": "https://github.com/inotia00/VancedManager/releases/latest/download/manager.apk",
-		"changelog": "- Gradle update /n- Fix the problem that VirusTotal detects Trojan when building with BuildType set to 'release'"
+		"version": "2.6.4",
+		"versionCode": 220721,
+		"url": "https://github.com/LeeXDA21/VancedManager/releases/latest/download/manager.apk",
+		"changelog": "- Gradle Dependency updates \n\n- Integrated amoled black theme \n\n- Cleaned out unused code"
 	},
   	"vanced": {
     "version": "17.28.34(RC)",
