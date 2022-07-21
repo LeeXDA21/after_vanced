@@ -1,8 +1,8 @@
 {
 	"is_microg_broken": false,
 	"manager": {
-		"version": "2.6.4",
-		"versionCode": 220721,
+		"version": "2.6.41",
+		"versionCode": 2207211,
 		"url": "https://github.com/LeeXDA21/VancedManager/releases/latest/download/manager.apk",
 		"changelog": "- Gradle Dependency updates \n\n- Integrated amoled black theme \n\n- Cleaned out unused code"
 	},
