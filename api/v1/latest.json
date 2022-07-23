@@ -2,9 +2,9 @@
 	"is_microg_broken": false,
 	"manager": {
 		"version": "2.6.41",
-		"versionCode": 220723,
+		"versionCode": 220724,
 		"url": "https://github.com/LeeXDA21/VancedManager/releases/latest/download/manager.apk",
-		"changelog": "- Updated Java Version"
+		"changelog": "- Update with latest Play Store version"
 	},
   	"vanced": {
     "version": "17.28.34(RC)",
