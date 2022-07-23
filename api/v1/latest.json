@@ -1,10 +1,10 @@
 {
 	"is_microg_broken": false,
 	"manager": {
-		"version": "2.6.42",
-		"versionCode": 20604020,
+		"version": "2.6.421",
+		"versionCode": 20604021,
 		"url": "https://github.com/LeeXDA21/VancedManager/releases/latest/download/manager.apk",
-		"changelog": "- Updated with inotia00 repo to fix some bugs\n- Fixed API bug"
+		"changelog": "- Updated the minimum sdk level to 26."
 	},
   	"vanced": {
     "version": "17.28.34(RC)",
